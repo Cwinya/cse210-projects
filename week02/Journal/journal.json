@@ -1,0 +1,42 @@
+{
+  "Entries": [
+    {
+      "Id": "d082f291-cd66-4074-b7df-d7833a3b1e9e",
+      "Timestamp": "2025-09-09T17:17:06.8431004+03:00",
+      "Content": "I feel glad today and want rest and chill today",
+      "PromptText": null,
+      "Mood": "Glad",
+      "Tags": []
+    },
+    {
+      "Id": "8dc4b0e0-3330-4e6a-a81c-46bc6690d97e",
+      "Timestamp": "2025-09-09T17:19:03.9251359+03:00",
+      "Content": "Walking\r\n  \r\n\r\nGoing to Selfless ::end",
+      "PromptText": "What made you smile today?",
+      "Mood": "Happy",
+      "Tags": [
+        "Cwinya Moses"
+      ]
+    }
+  ],
+  "Prompts": [
+    {
+      "Text": "What made you smile today?"
+    },
+    {
+      "Text": "One thing you learned today?"
+    },
+    {
+      "Text": "What challenge did you overcome?"
+    },
+    {
+      "Text": "What are you grateful for right now?"
+    }
+  ],
+  "Reminders": [],
+  "Settings": {
+    "Theme": "light",
+    "NotificationsEnabled": true,
+    "EncryptionEnabled": false
+  }
+}
