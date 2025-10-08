@@ -1,0 +1,2 @@
+0
+SimpleGoal|Greeting my neighbor|I will greet my neighbor everyday|100|False
