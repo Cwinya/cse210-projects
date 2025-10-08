@@ -1,4 +1,6 @@
 using System;
+// I created a NegativeGoal.cs program that tracks bad habits, resulting in a loss of points when recorded then deducts points from the total score.
+// This is for the stretch challenge activity
 
 class Program
 {
